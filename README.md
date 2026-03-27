@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Sumbach! 👋
 
-<!--
-**Rmoritz/Rmoritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 3º período de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo, apaixonado por tecnologia e por resolver problemas através do código. 
 
-Here are some ideas to get you started:
+Atualmente, estou aprofundando meus conhecimentos no desenvolvimento back-end e na criação de sistemas robustos e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou construindo e aprendendo
+- 📚 **Estudando atualmente:** Java, C# e PHP.
+- 💻 **Linguagens e Tecnologias base:** C, HTML, CSS, JavaScript e SQL.
+- 🛠️ **Projetos práticos:** Tenho experiência na criação de um site para loja de roupas, desenvolvimento de bancos de dados para gestão (hospitais e hotelaria), construção de sites comerciais e programação de lógicas de jogos de combate em C.
+
+### ⚡ Curiosidades sobre mim
+- Quando não estou programando, provavelmente estou pesquisando sobre **hardware de PC** ou tentando subir de elo no **Valorant**.
+- Gosto de analisar boas partidas de **xadrez** para treinar a lógica.
+- Sou torcedor do São Paulo e fã de boas histórias (seja em animes, como Jojo e Black Clover, ou clássicos como O Senhor dos Anéis).
+
+### 📫 Como me encontrar
+- **LinkedIn:** [www.linkedin.com/in/rafael-moritz-sumbach]
+- **E-mail:** [rafaelmoritz69@gmail.com]
