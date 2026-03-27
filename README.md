@@ -10,9 +10,8 @@ Atualmente, estou aprofundando meus conhecimentos no desenvolvimento back-end e 
 - 🛠️ **Projetos práticos:** Tenho experiência na criação de um site para loja de roupas, desenvolvimento de bancos de dados para gestão (hospitais e hotelaria), construção de sites comerciais e programação de lógicas de jogos de combate em C.
 
 ### ⚡ Curiosidades sobre mim
-- Quando não estou programando, provavelmente estou pesquisando sobre **hardware de PC** ou tentando subir de elo no **Valorant**.
 - Gosto de analisar boas partidas de **xadrez** para treinar a lógica.
-- Sou torcedor do São Paulo e fã de boas histórias (seja em animes, como Jojo e Black Clover, ou clássicos como O Senhor dos Anéis).
+- Sou torcedor do São Paulo e fã de boas histórias (seja em animes, como Jojo e Hunter x Hunter)
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [www.linkedin.com/in/rafael-moritz-sumbach]
